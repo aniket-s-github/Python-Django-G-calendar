@@ -3,7 +3,8 @@ from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 
 scope = ['https://www.googleapis.com/auth/calendar.events.readonly']
-flow = InstalledAppFlow.from_client_secrets_file('client_secret.json', scopes=scope)
+# scope = ['https://www.googleapis.com/auth/calendar']
+flow = InstalledAppFlow.from_client_secrets_file('C:\\Users\\dilip\\PycharmProjects\\client_secret.json', scopes=scope)
 creds = None
 
 # def GoogleCalendarInitView(request):
