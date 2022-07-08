@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "django-calendar-355611",
+  "private_key_id": "af8c5eef8c9f8badb699362301fb58ca28cbbc4f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDx7Itge4qk2q6r\nEMCyQjqgTCeuI9J1yuEbDSAvJDD/OuO9EtcramPKwmzrp0N27DtoXN70RG+s0OCX\nJ4zIorUZON/1UtAcVyj8O2XvnAHAeC+SCy0D1hjUF69nDvd3qGL215ISv3+F53QZ\ny+k6b9rkwynJXsxtKNpy1Ep6uX4CHZcKVIETwj6KnEhRtsP84adgHf2sEorPEVXt\nKjlNdGggOaHYxmh3yW1K74N0EbAnORDlFaqWVs+pAhvmUYzVJT8t2GBE6lmqw6mw\nA1a+vcSTIp7CrZ2iFiaDXxpjGby2q+5xaeyYcYC/3OqoIH8ox0q5Uzg92pjmFHcU\nMm6l2jDrAgMBAAECggEAXhCFWOxwSg0lYSpQYn9R4EX8H7+Z82cBA82kt++whWzW\nZAvRUfY5+vqB81bD6peLudZycjOx4FYPHXapTNHG7Jmqqu6aMIrLStelmPblz3pr\ntLNXu2ghm0XiU4YEPqhgYm4LQ/LlmKEYCXe5pZkcWVpxAvUzMzZxSbi1hOZe0l8B\ndCaczi3VZS2/Xa6BaJdOISHtJQ8CWUVNnOpH8Lc9R9nvzjclvh2hHQIRTJ8p3+lX\nYNhbxhwpFCCaSzYTSJvqQy69V+Jw5mliJwOT/XnDob0fp0ArqTDPhIS13hDFTNyh\n73fYNPQpqOpK0m/k88KNyR5DKzwfWWdE7AhOMSn1UQKBgQD7NQxRzmtAuqLlBJRh\nJrhyDFi5Vmvjlfk3svB0XxPPQfCVvQ2VxIEzoz4OnXJVVx6hK/8k61uGrkji8n2l\nNJ9dnAODx8unvIjw7U5fLjiHh26tc9eV1d66iy52Xj3Oat4JwvzksHx1rCc0AO8y\nSHPk5it9UeV6+XmpSk0ShDgMFwKBgQD2iievbwaLfs8B0VMuGj9nRef2zq/2SN7T\nPVdRIJ366MgThVv+3wzW1Uqjr/rPs3BhMbTiyt6FRkE+x/thvjpYIAl1Xf+k4cTk\nmUIwHVog8O6UNxF5sGdQwDCJTt+28dSJMtvI3haID/P2ik/ymodsDoxpT4DgEFff\nQZNHgGiiTQKBgQD0RPYwyibSr2lchuJ9wbgS9lyEBDwu9pN7DN3yWs2ZeMYn5MjD\n/GuiObdLYOBfibJ4CJ82WEIMqYaoYCG7NntM/DsStoIbHiKPHEJcHUbMyu3dbkqR\nIYFOJa7NXQB+qr40Ac4F1nN/vSH12H6/h2Jij0p0tuENfm9GJcDiI32YiwKBgQDo\nJ4ZhQ8pE919VFdkfE6ZayFA7b7vwzgPNpPihM3awPB2TjEPpx/4eGvFTHDaw+Qa8\n74KnAWPy2go8ZTKJgwkLzPc7Jw3BJLw0i0Dxb+JcHKR8uzJghcV0G9ZYpgYyDp0V\nqOefycory+HuaaYJDIyzKyv7SttPovQsDmLytK9TDQKBgQDL9zBivpXKIjYibJbM\nXP+OG0OIp5InrmYH8Pd7SrgYB+C9p5PSuoUnLjza4EyfTNK38ItrgkAZIfGEw8N2\nrI08EXizpBwFpDlioPcQySViJTfJoXlKuRYusJcEw4bbCkeL/je5+jADLk+UtJaw\n0oLnH66/3wL2+TMr0D/hRNxtIQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "g-calendar@django-calendar-355611.iam.gserviceaccount.com",
+  "client_id": "107659468725714320454",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/g-calendar%40django-calendar-355611.iam.gserviceaccount.com"
+}
